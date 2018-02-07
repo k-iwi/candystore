@@ -20,3 +20,5 @@ pages:
 - Frequently Asked Questions: Frequently Asked Questions.md
 - Contribution Guide: Contribution Guide.md
 - ❤ Donate ❤: Donate.md
+
+theme: readthedocs
